@@ -1,5 +1,5 @@
 # produtos-ivone-sete
-:bulb:teste
+
 
 
 <!doctype html>
